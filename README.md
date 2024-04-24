@@ -18,14 +18,7 @@ displayed in the application's graphical user interface (GUI). In addition, the 
 along with the uploaded business card image.
 
 # Required Libraries 
-1.Pandas
-2.Streamlit
-3.Regular Expression
-4.Pillow(PIL)
-5.Image and ImageDraw from PIL
-6.Numpy
-7.EasyOCR
-8.mysql.connector
+1.Pandas  2.Streamlit  3.Regular Expression  4.Pillow(PIL)  5.Image and ImageDraw from PIL  6.Numpy  7.EasyOCR  8.mysql.connector
 
 # Workflow
 * The application has 3 pages namely "Home","Correction","Server".Default is "Home" page.
