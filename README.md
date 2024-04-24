@@ -1,6 +1,6 @@
 # Optical-Character-Recognition-Project
 Extracting Business Card Data with OCR
-#Overview
+# Overview
   OCR stands for Optical Character Recognition. It's a technology that converts images of text into a digital format that computers can understand and manipulate.
 
 Here's a breakdown of OCR:
@@ -17,7 +17,7 @@ Making historical documents with handwritten text accessible digitally.
 displayed in the application's graphical user interface (GUI). In addition, the application should allow users to save the extracted information into a database 
 along with the uploaded business card image.
 
-#Required Libraries 
+# Required Libraries 
 1.Pandas
 2.Streamlit
 3.Regular Expression
@@ -27,7 +27,7 @@ along with the uploaded business card image.
 7.EasyOCR
 8.mysql.connector
 
-#Workflow
+# Workflow
 * The application has 3 pages namely "Home","Correction","Server".Default is "Home" page.
 * On launching the application you will find the upload button on the sidebar in the Home page, Click and upload the business card image.
 * You will find the uploaded image in the UI below it you will see extract button, click to extract the card details such as the company name, card holder
